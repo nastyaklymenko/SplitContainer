@@ -1,0 +1,17 @@
+C:\Users\PETYAggg\Desktop\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\SplitContainer_Test.exe
+C:\Users\PETYAggg\Desktop\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\SplitContainer_Test.pdb
+C:\Users\PETYAggg\Desktop\SplitContainer_Test\SplitContainer_Test\bin\Debug\SplitContainer_Test.exe
+C:\Users\PETYAggg\Desktop\SplitContainer_Test\SplitContainer_Test\bin\Debug\SplitContainer_Test.pdb
+C:\Users\PETYAggg\Desktop\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\providnukIPoshukphluk.csprojResolveAssemblyReference.cache
+C:\Users\PETYAggg\Desktop\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\SplitContainer_Test.Form1.resources
+C:\Users\PETYAggg\Desktop\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\SplitContainer_Test.Properties.Resources.resources
+C:\Users\PETYAggg\Desktop\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\providnukIPoshukphluk.csproj.GenerateResource.Cache
+C:\Users\klyme\Desktop\SplitContainer_Test\SplitContainer_Test\bin\Debug\SplitContainer_Test.exe
+C:\Users\klyme\Desktop\SplitContainer_Test\SplitContainer_Test\bin\Debug\SplitContainer_Test.pdb
+C:\Users\klyme\Desktop\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\providnukIPoshukphluk.csprojResolveAssemblyReference.cache
+C:\Users\klyme\Desktop\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\SplitContainer_Test.Form1.resources
+C:\Users\klyme\Desktop\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\SplitContainer_Test.Properties.Resources.resources
+C:\Users\klyme\Desktop\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\providnukIPoshukphluk.csproj.GenerateResource.cache
+C:\Users\klyme\Desktop\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\providnukIPoshukphluk.csproj.CoreCompileInputs.cache
+C:\Users\klyme\Desktop\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\SplitContainer_Test.exe
+C:\Users\klyme\Desktop\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\SplitContainer_Test.pdb

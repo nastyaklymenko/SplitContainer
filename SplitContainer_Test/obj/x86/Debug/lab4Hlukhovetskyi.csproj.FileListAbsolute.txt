@@ -1,0 +1,8 @@
+C:\Users\PETYAggg\Desktop\SplitContainer_Test\SplitContainer_Test\bin\Debug\SplitContainer_Test.exe
+C:\Users\PETYAggg\Desktop\SplitContainer_Test\SplitContainer_Test\bin\Debug\SplitContainer_Test.pdb
+C:\Users\PETYAggg\Desktop\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\SplitContainer_Test.Form1.resources
+C:\Users\PETYAggg\Desktop\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\SplitContainer_Test.Properties.Resources.resources
+C:\Users\PETYAggg\Desktop\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\lab4Hlukhovetskyi.csproj.GenerateResource.Cache
+C:\Users\PETYAggg\Desktop\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\SplitContainer_Test.exe
+C:\Users\PETYAggg\Desktop\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\SplitContainer_Test.pdb
+C:\Users\PETYAggg\Desktop\SplitContainer_Test\SplitContainer_Test\obj\x86\Debug\lab4Hlukhovetskyi.csprojResolveAssemblyReference.cache
